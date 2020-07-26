@@ -9,3 +9,6 @@
   <a href="https://prajjwal.me" target="_blank"><img src="https://img.shields.io/website?style=for-the-badge&up_message=Still%20Up&url=https%3A%2F%2Fprajjwal.me" /></a>
 </p>
 
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=prajjwaldimri&count_private=true&show_icons=true&theme=onedark"/>  
+</p>
