@@ -10,5 +10,5 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=prajjwaldimri&count_private=true&show_icons=true&theme=onedark&hide=contribs"/>  
+  <img align="center" src="http://github-readme-stats-tawny-delta-64.vercel.app/api?username=prajjwaldimri&count_private=true&show_icons=true&theme=onedark&hide=contribs"/>  
 </p>
