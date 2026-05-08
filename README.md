@@ -8,7 +8,3 @@
   <a href="https://linkedin.com/in/prajjwaldimri" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%40PrajjwalDimri-blue?style=for-the-badge" /></a>
   <a href="https://prajjwal.me" target="_blank"><img src="https://img.shields.io/website?style=for-the-badge&up_message=Still%20Up&url=https%3A%2F%2Fprajjwal.me" /></a>
 </p>
-
-<p align="center">
-  <img align="center" src="http://github-readme-stats-tawny-delta-64.vercel.app/api?username=prajjwaldimri&count_private=true&show_icons=true&theme=onedark&hide=contribs"/>  
-</p>
